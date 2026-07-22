@@ -92,6 +92,10 @@ Use 'nrf52_recover' to erase and unlock the device.
 
 This means that SWD communication works correctly, but firmware readout and debugging are blocked until a full chip erase is performed.
 
+## Firmware download
+
+It is possibile to download the encrypted firmware, more in [firmware_ota](./FIRMWARE_OTA.md)
+
 ## PCB Photo
 
 ![PCB](photos/hires_tiki.jpeg)
